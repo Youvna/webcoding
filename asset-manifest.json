@@ -1,21 +1,30 @@
 {
   "files": {
     "main.css": "/webcoding/static/css/main.fb7e5f33.chunk.css",
-    "main.js": "/webcoding/static/js/main.2753c3a6.chunk.js",
-    "main.js.map": "/webcoding/static/js/main.2753c3a6.chunk.js.map",
+    "main.js": "/webcoding/static/js/main.13daa685.chunk.js",
+    "main.js.map": "/webcoding/static/js/main.13daa685.chunk.js.map",
     "runtime-main.js": "/webcoding/static/js/runtime-main.9260a366.js",
     "runtime-main.js.map": "/webcoding/static/js/runtime-main.9260a366.js.map",
-    "static/js/2.61061c66.chunk.js": "/webcoding/static/js/2.61061c66.chunk.js",
-    "static/js/2.61061c66.chunk.js.map": "/webcoding/static/js/2.61061c66.chunk.js.map",
+    "static/js/2.e7efb6dd.chunk.js": "/webcoding/static/js/2.e7efb6dd.chunk.js",
+    "static/js/2.e7efb6dd.chunk.js.map": "/webcoding/static/js/2.e7efb6dd.chunk.js.map",
     "index.html": "/webcoding/index.html",
     "static/css/main.fb7e5f33.chunk.css.map": "/webcoding/static/css/main.fb7e5f33.chunk.css.map",
-    "static/js/2.61061c66.chunk.js.LICENSE.txt": "/webcoding/static/js/2.61061c66.chunk.js.LICENSE.txt",
-    "static/media/axaguy.2c7cc502.svg": "/webcoding/static/media/axaguy.2c7cc502.svg"
+    "static/js/2.e7efb6dd.chunk.js.LICENSE.txt": "/webcoding/static/js/2.e7efb6dd.chunk.js.LICENSE.txt",
+    "static/media/Anil Kumar.ca941584.svg": "/webcoding/static/media/Anil Kumar.ca941584.svg",
+    "static/media/Important Updates.e3a6cdd5.svg": "/webcoding/static/media/Important Updates.e3a6cdd5.svg",
+    "static/media/Just Launched.5d242c03.svg": "/webcoding/static/media/Just Launched.5d242c03.svg",
+    "static/media/Media Speak.f361494b.svg": "/webcoding/static/media/Media Speak.f361494b.svg",
+    "static/media/Most Read.d72f01a2.svg": "/webcoding/static/media/Most Read.d72f01a2.svg",
+    "static/media/Sunaina Mehta.eae4f14b.svg": "/webcoding/static/media/Sunaina Mehta.eae4f14b.svg",
+    "static/media/We Won.cc18ef7b.svg": "/webcoding/static/media/We Won.cc18ef7b.svg",
+    "static/media/Yogesh Sharma.91ebef5a.svg": "/webcoding/static/media/Yogesh Sharma.91ebef5a.svg",
+    "static/media/axaguy.2c7cc502.svg": "/webcoding/static/media/axaguy.2c7cc502.svg",
+    "static/media/nineninePercent.35190fd9.svg": "/webcoding/static/media/nineninePercent.35190fd9.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.9260a366.js",
-    "static/js/2.61061c66.chunk.js",
+    "static/js/2.e7efb6dd.chunk.js",
     "static/css/main.fb7e5f33.chunk.css",
-    "static/js/main.2753c3a6.chunk.js"
+    "static/js/main.13daa685.chunk.js"
   ]
 }
